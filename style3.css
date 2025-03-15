@@ -1,0 +1,160 @@
+body {
+    height: 100px;
+    color: white;
+
+}
+
+    
+  
+  
+  p {
+    background:purple;
+      color:skyBlue;
+    
+      font:cursive;
+      font:100px;
+    
+  }
+p:hover{
+      border:red;
+    border-radius:400px;
+      font-size:10px;
+  display:flex;
+  justify-content:center;
+    color:pink;
+  
+    }
+    
+  .keeki{
+    border:green;
+    font-size:50px;
+    
+    border-width:20px;
+    display:flex;
+    
+    justify-content:space-around;
+    
+    
+  }
+  .donut{
+    display:flex;
+    justify-content:center;
+  
+  }
+
+a:hover{
+  color: cadetblue;
+  font-size:700px;
+  
+}
+special:hover{
+  color: pink;
+  font-size: 500px;
+}
+.deterant{
+  font-size:10px;
+}
+
+
+deterant:visited{
+  font-size:1px;
+}
+deterant2:visited{
+  font-size:1px;
+}
+deterant3:visited{
+  font-size:1px;
+}
+deteran4:visited{
+  font-size:1px;
+}
+deteran5:visited{
+  font-size:1px;
+}
+deteran6:visited{
+  font-size:1px;
+}
+deteran7:visited{
+  font-size:1px;
+}
+deteran8:visited{
+  font-size:1px;
+}
+
+deteran9:visited{
+  font-size:1px;
+}
+deteran10:visited{
+  font-size:1px;
+}
+deterant11:visited{
+  font-size:1px;
+}
+deterant12:visited{
+  font-size:1px;
+}
+deterant13:visited{
+  font-size:1px;
+}
+deterant14:visited{
+  font-size:1px;
+}
+deterant15:visited{
+  font-size:1px;
+}
+deterant16:visited{
+  font-size:1px;
+}
+deterant17:visited{
+  font-size:1;
+}
+
+.deterant2{
+  font-size:100px;
+}
+.deterant3{
+  font-size:100px;
+}
+.deterant4{
+  font-size:100px;
+}
+.deterant5{
+  font-size:100px;
+}
+.deterant6{
+  font-size:100px;
+}
+.deterant7{
+  font-size:100px;
+}
+.deterant8{
+  font-size:100px;
+}
+.deterant9{
+  font-size:100px;
+}
+.deterant15{
+  font-size:100px;
+}
+.deterant10{
+  font-size:100px;
+}
+.deterant11{
+  font-size:100px;
+}
+.deterant12{
+  font-size:100px;
+}
+.deterant13{
+  font-size:100px;
+}
+.deterant14{
+  font-size:100px;
+}
+.deterant16{
+  font-size:100px;
+}
+.deterant17{
+  font-size:100px;
+}
+

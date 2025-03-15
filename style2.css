@@ -1,0 +1,55 @@
+body {
+    height: 300px;
+    color: white;
+
+}
+
+    
+  
+  
+  p {
+    background:purple;
+      color:blue;
+    
+      font:cursive;
+      font:300px;
+    display:flex;
+    flex-direction:row;
+    
+  }
+p:hover{
+      border:red;
+    border-radius:400px;
+      font-size:200px;
+  display:flex;
+  justify-content:center;
+    color:pink;
+  
+    }
+    
+  .keeki{
+    border:green;
+    font-size:300px;
+    
+    border-width:20px;
+    display:flex;
+    justify-content:space-around;
+    
+    
+  }
+  .donut{
+    display:flex;
+    justify-content:center;
+  
+  }
+
+a:hover{
+  color: cadetblue;
+  font-size: 2px;
+  
+  
+}
+.swag:hover{
+  font:cursive;
+  font-size:700px;
+}

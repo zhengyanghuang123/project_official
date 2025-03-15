@@ -1,0 +1,39 @@
+body {
+    height: 100px;
+    color: white;
+
+}
+
+    
+  
+  
+  p {
+    background:purple;
+      color:yellow;
+      font:cursive;
+      font:100px;
+    
+  }
+  .keeki{
+    border:green;
+    font-size:50px;
+    
+    border-width:20px;
+    display:flex;
+    justify-content:space-around;
+    
+    
+  }
+  .donut{
+    display:flex;
+    justify-content:center;
+  
+  }
+
+a:hover{
+  color: cadetblue;
+  font-size: 100px;
+}
+img{
+  height:50px;
+}
